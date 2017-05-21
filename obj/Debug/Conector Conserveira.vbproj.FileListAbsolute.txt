@@ -1,0 +1,28 @@
+c:\users\cp\documents\visual studio 2012\Projects\Conector Conserveira\Conector Conserveira\bin\Debug\Conector Conserveira.exe.config
+c:\users\cp\documents\visual studio 2012\Projects\Conector Conserveira\Conector Conserveira\obj\Debug\Conector_Conserveira.hmi.resources
+c:\users\cp\documents\visual studio 2012\Projects\Conector Conserveira\Conector Conserveira\obj\Debug\Conector_Conserveira.Resources.resources
+c:\users\cp\documents\visual studio 2012\Projects\Conector Conserveira\Conector Conserveira\obj\Debug\Conector Conserveira.vbproj.GenerateResource.Cache
+c:\users\cp\documents\visual studio 2012\Projects\Conector Conserveira\Conector Conserveira\bin\Debug\Conector Conserveira.exe
+c:\users\cp\documents\visual studio 2012\Projects\Conector Conserveira\Conector Conserveira\bin\Debug\Conector Conserveira.pdb
+c:\users\cp\documents\visual studio 2012\Projects\Conector Conserveira\Conector Conserveira\bin\Debug\Conector Conserveira.xml
+c:\users\cp\documents\visual studio 2012\Projects\Conector Conserveira\Conector Conserveira\obj\Debug\Conector Conserveira.exe
+c:\users\cp\documents\visual studio 2012\Projects\Conector Conserveira\Conector Conserveira\obj\Debug\Conector Conserveira.xml
+c:\users\cp\documents\visual studio 2012\Projects\Conector Conserveira\Conector Conserveira\obj\Debug\Conector Conserveira.pdb
+C:\Users\CP\Desktop\Conector Conserveira\Conector Conserveira\bin\Debug\Conector Conserveira.exe.config
+C:\Users\CP\Desktop\Conector Conserveira\Conector Conserveira\obj\Debug\Conector Conserveira.exe
+C:\Users\CP\Desktop\Conector Conserveira\Conector Conserveira\obj\Debug\Conector Conserveira.xml
+C:\Users\CP\Desktop\Conector Conserveira\Conector Conserveira\obj\Debug\Conector Conserveira.pdb
+C:\Users\AlexDevesa\Desktop\Conector Conserveira\Conector Conserveira\bin\Debug\Conector Conserveira.exe.config
+C:\Users\AlexDevesa\Desktop\Conector Conserveira\Conector Conserveira\obj\Debug\Conector Conserveira.exe
+C:\Users\AlexDevesa\Desktop\Conector Conserveira\Conector Conserveira\obj\Debug\Conector Conserveira.xml
+C:\Users\AlexDevesa\Desktop\Conector Conserveira\Conector Conserveira\obj\Debug\Conector Conserveira.pdb
+C:\Users\AlexDevesa\Desktop\Conector Conserveira V3.0\Conector Conserveira\bin\Debug\Conector Conserveira.exe.config
+C:\Users\AlexDevesa\Desktop\Conector Conserveira V3.0\Conector Conserveira\obj\Debug\Conector Conserveira.exe
+C:\Users\AlexDevesa\Desktop\Conector Conserveira V3.0\Conector Conserveira\obj\Debug\Conector Conserveira.xml
+C:\Users\AlexDevesa\Desktop\Conector Conserveira V3.0\Conector Conserveira\obj\Debug\Conector Conserveira.pdb
+C:\Users\AlexDevesa\Desktop\Conector Conserveira V3.0\Conector Conserveira\bin\Debug\Conector Conserveira.exe
+C:\Users\AlexDevesa\Desktop\Conector Conserveira V3.0\Conector Conserveira\bin\Debug\Conector Conserveira.pdb
+C:\Users\AlexDevesa\Desktop\Conector Conserveira V3.0\Conector Conserveira\bin\Debug\Conector Conserveira.xml
+C:\Users\AlexDevesa\Desktop\Conector Conserveira V3.0\Conector Conserveira\obj\Debug\Conector_Conserveira.hmi.resources
+C:\Users\AlexDevesa\Desktop\Conector Conserveira V3.0\Conector Conserveira\obj\Debug\Conector_Conserveira.Resources.resources
+C:\Users\AlexDevesa\Desktop\Conector Conserveira V3.0\Conector Conserveira\obj\Debug\Conector Conserveira.vbproj.GenerateResource.Cache
